@@ -1,0 +1,58 @@
+# Operating Systems
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.classpath
+.settings/
+
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+yarn.lock
+
+# Build outputs
+dist/
+build/
+out/
+*.log
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Temporary files
+*.tmp
+*.temp
+.cache/
+
+# Test coverage
+coverage/
+.nyc_output/
+
+# Portfolio project-specific
+# Note: demo.gif files should be kept under 10MB per STRUCTURE.md
+
+# Large temporary files in screenshots
+portfolio/**/screenshots/*.tmp
+portfolio/**/screenshots/*.temp
+
+# Documentation files (personal reference)
+PROJECT-DOCUMENTATION-STANDARD.md
+STRUCTURE.md
